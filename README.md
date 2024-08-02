@@ -1,7 +1,6 @@
 ### stock-search-ios-app
 # Project Title: iOS Stock Trading and Portfolio Management App
 <img src="https://github.com/user-attachments/assets/8415e4d2-2cfb-460d-b2ac-599132799017" alt="drawing" width="400"/>
-<img src="https://github.com/user-attachments/assets/c3ad6492-464d-4360-b26c-9c15a5aaa42b" alt="drawing" width="500"/>
 
 ## Project Overview:
 This project involves developing a native iOS application using Swift and SwiftUI that allows users to search for stock symbols/tickers and view detailed information about them. The app enables users to trade with virtual money, manage a portfolio, and favorite stock symbols for tracking. The application includes two main screens: the Home screen and the Detailed Stock Information screen, each featuring multiple functionalities.
